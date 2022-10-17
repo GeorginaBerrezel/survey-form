@@ -4,20 +4,6 @@
     --color-darkblue-alpha: rgba(27, 27, 50, 0.8);
     --color-green: #37af65;
   }
-    /*
-body {
-    font-family: 'Sarabun', sans-serif;
-    background-image: url("pexels-christina-morillo-1181263.jpg");
-    background-color: rgba(123, 0, 255, 0.169);
-    object-fit: cover;
-    color: white;
-    height: 100%;
-    width: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-    */
     
 body {
     font-family: 'Poppins', sans-serif;
@@ -28,7 +14,6 @@ body {
     margin: 0;
   }
   
-  /* mobile friendly alternative to using background-attachment: fixed */
   body::before {
     content: '';
     position: fixed;
